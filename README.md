@@ -2,7 +2,7 @@
 
 ## About
 
-![budgetgif](https://github.com/laurenbrown108/workout-tracker/blob/main/public/fitnesstracker.gif?raw=true)
+![budgetgif](https://github.com/laurenbrown108/pwa-budget-tracker/blob/main/public/assets/budgettrackergif.gif?raw=true)
 
 This application was designed for users to track their expenses. Since it is a progressive web app, the user may continue their tracking even when offline.
 
